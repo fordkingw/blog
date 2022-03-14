@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "f25af8d559510e1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "183dd0c5a7103632",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a850cc44092f6892",
+    "type": "split",
+    "children": [
+      {
+        "id": "a06f045d9fa0d3f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c1d6707c235673f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4420b1c2732b4c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c4fb19f02f25dfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d1578a7962a1951",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cffda812f4e2cd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "183dd0c5a7103632",
+  "lastOpenFiles": [
+    "阅读原文的意义.md",
+    "You are the miracle.md",
+    "markdown-cheat-sheet.md",
+    "get-more-out-of-google.jpg",
+    "不科学上网的情况下如何使用搜索引擎.md",
+    "表意文字的问题.md"
+  ]
+}
